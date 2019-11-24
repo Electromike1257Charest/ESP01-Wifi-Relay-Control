@@ -1,0 +1,3 @@
+Voici le code nécessaire pour le bon fontionnement du module de relais wifi de chez Électromike complet avec interface web.
+Here is the code necessary for the wifi relay module from Electromike with a web interface.
+SKU:ARDUINO-REL-WIFI1
